@@ -1,0 +1,1 @@
+This is a game of Rock-Paper-Scissors played against the computer. The user enters their choice as a string (case doesn't matter) and then the computer randomly selects one. Uses the random module for the computer's selection.
